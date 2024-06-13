@@ -1,0 +1,238 @@
+
+.container{
+    height: 370px;
+}
+
+ /* ----------------------Navitems---------------------------------- */
+
+.navbar-nav{
+    margin-left: 500px;
+}
+.logo{
+    margin-left: 120px;
+}
+
+
+/* ------------------container----------------------------- */
+.custom-blue-text {
+    color: blue !important;
+    
+  }
+  .btn.btn-light.custom-blue-text {
+    background-color: #fff !important;
+    border-radius:50px !important;
+    border: white;
+}
+.btn-one{
+    margin-left: 5px;
+    margin-top: 20px;
+}
+.container-btns{
+    display: flex;
+    margin-left: 3px;
+   
+}
+.container-content{
+    margin-top: 60px;
+    margin-left: 140px;
+}
+.wel-p{
+  color: #fff;
+  font-size: 19px;
+}
+.text-h3{
+    color: #fff;
+    font-size: 56px;
+}
+.para-one{
+    color: #fff;
+    margin-top: 10px;
+}
+
+/* ---------------------section-one-------------------------------- */
+
+.section-container{
+    height: 350px;
+    width: 100%;
+    /* border: 1px solid black; */
+}
+
+.img-thumbnail{
+    width: 20rem;
+    height: 240px !important;
+    border-radius: 0 15px 0 15px !important;
+    margin-top: 31px;
+    margin-left: 290px;
+}
+.section-container{
+    display: flex;
+  
+}
+.card-text{
+    margin-top: 28px;
+    margin-right: 280px;
+}
+.card-p{
+   font-size: 16px;
+   font-weight: bold;
+}
+.card-h{
+
+}
+.card-para{
+  
+}
+
+
+/* -----------------section-two--------------------- */
+
+.section-two{
+    /* background-color: bisque; */
+    display: flex;
+    height: 400px;
+    /* margin-left: 10px; */
+    width: 100%;
+}
+.main{
+    display: flex;
+    margin-top: 90px;
+}
+.main-one{
+    margin-left: 250px;
+}
+.main-two{
+    margin-left: 100px;
+}
+.main-three{
+    margin-left: 90px;
+}
+.about-img img{
+  width: 40px;
+}
+.about-text{
+    color: white;
+    margin-top: 10px;
+    margin-left: 3px;
+}
+.about-para{
+    color: white;
+}
+
+.vision-img img{
+    width: 40px;
+}
+.vision-para{
+    color: white;
+}
+.vision-text{
+    color: white;
+    margin-top: 10px;
+    margin-left: 3px;
+}
+
+.join-img img{
+    width: 40px;
+}
+.join-text{
+    color: #fff;
+    margin-top: 10px;
+    margin-left: 3px;
+}
+.join-para{
+    color: white;
+ 
+}
+
+/* ------------------sectionthreee----------------------- */
+
+.texts
+{
+    margin-left: 550px;
+    margin-top: 13px;
+}
+.texts h6{
+    margin-left: 60px;
+}
+.card-images{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 220px;
+}
+.card{
+    margin-left: 15px;
+}
+.card-img-top{
+    height: 200px;
+}
+
+
+/* --------------------------section-four---------------------------- */
+
+.section-four{
+    height: 300px;
+    background-color: aquamarine;
+}
+.join-serve {
+  margin-top: 40px;
+}
+
+.serve-h5 {
+    color: #fff;
+    margin-left: 671px;
+    font-weight: 400;
+ margin-top: 35px;
+}
+
+.para{
+    color: white;
+    margin-top: 50px;
+    margin-left: 290px;
+
+}
+.pp{
+    color: white;
+    margin-left: 600px;
+    /* margin-left: 480px; */
+
+}
+
+/* -----------------section-five---------------------------------------- */
+
+.fifth-main{
+    display: flex;
+}
+.fith-text{
+    margin-left: 290px;
+    margin-top: 50px;
+}
+
+
+/* ----------------footer---------------------------------- */
+
+
+.footer{
+    background-color: #0b3c98;
+    margin-top: 20px;
+}
+.footer-main{
+    display: flex;
+}
+.foot-img-text{
+    color: #fff;
+    display: flex;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.foot-content{
+    color: #fff;
+    margin-left: 690px;
+    margin-top: 20px;
+}
+.qr{
+    display: flex;
+
+}
+.qr-img{
+    margin-top: 20px;
+    margin-left: 10px;
+}
